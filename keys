@@ -2,6 +2,8 @@ Basic auth:
 
 https://admin:admin@the-internet.herokuapp.com/basic_auth
 
+http://43f6017361224d098402974103bfc53d:a6a0538fc2934ba2bed32e08741b2cd3@my.host.live.something.com:9000/1
+
 Private key:
 -----BEGIN OPENSSH PRIVATE KEY-----
 b3BlbnNzaC1rZXktdjEAAAAACmFlczI1Ni1jdHIAAAAGYmNyeXB0AAAAGAAAABAjNIZuun
